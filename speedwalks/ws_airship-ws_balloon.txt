@@ -1,0 +1,3 @@
+# Name:    [Whitestorm Airship] to [Whitestorm Balloon]
+# Pattern: 'ws as to bal'
+w;w;w;se;se;s;s;se;s;s;se;se;e;e;e;climb fence;s;s;s;s;s;s;s;s;s

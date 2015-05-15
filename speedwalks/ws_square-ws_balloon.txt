@@ -1,0 +1,3 @@
+# Name:    [Whitestorm Square] to [Whitestorm Balloon]
+# Pattern: 'ws [] to bal'
+n;n;n;ne;n;n;nw;d;d;n;ne;nw

@@ -1,0 +1,3 @@
+# Name: [Asmar Airship] to [Asmar Ancient Forest]
+# Pattern: 'asmar as to af'
+s;w;w;w;w;w;s;s;s;s;s;s;e;e;e;s;s;w;s;s;e;e;s;sw;w;w;s;s;s;w;s;s;s;s;s;s;e;e;e;s;s;w;s;s;e;e;s;s;w;w;w;w;w;n;n;w;w;d;se;e;e;se;d;d;w;nw;w;w;sw;s;d;d;ne;e;se;e;d;d;w
